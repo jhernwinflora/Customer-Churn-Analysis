@@ -225,7 +225,7 @@ FROM customer_churn_data;
 
 * **Route Support Escalations at Call 4**: Automatically assign dedicated retention support when a customer reaches 4 support calls to resolve root issues before churn surges past 60% at 5+ calls.   
 * **Automate Billing Alerts at 10 Days**: Trigger proactive payment assistance and flexible billing reminders around Day 10 to prevent accounts from entering the 16+ day payment delay bracket, where churn spikes to 71.29%.   
-* **Incentivize Monthly Contract Conversions**: Launch targeted promotions (such as a free month or upgrade perks) to convert Monthly subscribers (51.61% churn) into Quarterly or Annual plans with lower attrition rates.   
+* **Incentivize Monthly Contract Conversions**: Launch targeted promotions (such as a free month or upgrade perks) to convert Monthly subscribers (52.11% churn) into Quarterly or Annual plans with lower attrition rates.   
 * **Launch a Long-Tenure Loyalty Program**: Create a VIP tier and legacy rewards for accounts crossing 2–3 years of tenure to combat product fatigue and decrease the high 56.03% churn rate among long-term customers.
 
 ## **Author - Jhernwin E. Flora**
