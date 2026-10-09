@@ -18,7 +18,7 @@ Primary Dataset: [customer_churn_dataset.csv](./customer_churn_dataset.csv)
 ### **Key Performance Indicators (KPIs)**
 
 | **Metric** | **Value** |
-|:-------|:-------|
+|------------|-----------|
 | **Total Customers** | 64,374 | 
 | **Gross Potential Revenue** | $34,827,839.00 | 
 | **Total Churned Customers** | 30,493 |
