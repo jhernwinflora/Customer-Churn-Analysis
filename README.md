@@ -70,6 +70,14 @@ A rules-based segmentation model categorizes customers into actionable risk tier
 | **Medium Risk** | Payment_Delay between 7–15 days OR Support_Calls between 3–5 calls |
 | **Low Risk** | All other active customers |
 
+## 📊 Power BI Interactive Dashboard
+This features an interactive Customer Churn Analysis Dashboard designed to monitor, analyze, and diagnose customer retention patterns. The dashboard visualizes critical business metrics to help stakeholders understand why customers leave, who is most likely to churn, and how operational friction impacts revenue loss.
+
+<img width="812" height="494" alt="image" src="https://github.com/user-attachments/assets/18003c65-0c19-4c39-a2ee-12da253bb8aa" />
+
+
+> 🔗 **Power BI File:** [Download the customer_churn_dashboard.pbix report](./customer_churn_dashboard.pbix)
+
 ### SQL Queries
 
 This project utilizes MySQL Workbench to perform end-to-end data processing, exploratory analysis, and key performance indicator (KPI) calculations. Below is the breakdown of the SQL workflows executed on customer_churn_dataset:
