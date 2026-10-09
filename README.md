@@ -7,3 +7,5 @@ This project analyzes customer churn across 64,374 customer records to uncover t
 
 ### **Data Source**
 
+Primary Dataset: [customer churn dataset.csv](./customer churn dataset.csv)
+
