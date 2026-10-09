@@ -18,3 +18,4 @@ Primary Dataset: [customer_churn_dataset.csv](./customer_churn_dataset.csv)
 
 | Metric | Value | Business Impact|
 |--------|-------|----------------|
+| Total Customers | 64,374 | Total evaluated customer base |
