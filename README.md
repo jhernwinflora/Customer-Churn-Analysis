@@ -9,3 +9,12 @@ This project analyzes customer churn across 64,374 customer records to uncover t
 
 Primary Dataset: [customer_churn_dataset.csv](./customer_churn_dataset.csv)
 
+### **Tools**
+* **Excel** - Raw Data
+* **MySQL Workbench** - Data Analysis 
+* **Power BI** - Creating Reports
+
+### **Key Performance Indicators (KPIs)**
+
+| Metric | Value | Business Impact|
+|--------|-------|----------------|
