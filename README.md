@@ -114,9 +114,9 @@ ORDER BY Support_Calls ASC;
 
 -- 5. Impact of Payment Delay on Churn
 SELECT
-	MIN(Payment_Delay),
+	MIN(Payment_Delay), 
     MAX(Payment_Delay)
-FROM customer_churn_data;
+FROM customer_churn_data; -- To find the minimum and maximum Payment Delay for bracketing
 
 SELECT
 	CASE 
@@ -137,7 +137,7 @@ ORDER BY churned_rate_pct desc;
 SELECT	
 	MIN(Age),
     MAX(Age)
-FROM customer_churn_data;
+FROM customer_churn_data; To find the minimum and maximum Age for bracketing
 
 SELECT
 	CASE
@@ -161,7 +161,7 @@ ORDER BY age_bracket, Gender;
 SELECT 
 	MIN(Tenure),
     MAX(Tenure)
-FROM customer_churn_data;
+FROM customer_churn_data; To find the minimum and maximum Tenure for bracketing
 
 SELECT 
 	CASE
