@@ -34,7 +34,7 @@ Primary Dataset: [customer_churn_dataset.csv](./customer_churn_dataset.csv)
 * **Average Payment Delay**: 17.13 days   
 * **Average Support Calls**: 5.40 calls
 
-### **Core Findings & Strategic Insights**
+### **📊Core Findings & Strategic Insights**
 
 #### **1. Support Call Escalation Tipping Point**
 * **0–3 Support Calls**: Churn remains low between **22.88%** and **24.84%**.
@@ -221,4 +221,12 @@ SELECT
 	END AS risk_segment
 FROM customer_churn_data;
 ```
+### Strategic Recommendations
 
+* **Route Support Escalations at Call 4**: Automatically assign dedicated retention support when a customer reaches 4 support calls to resolve root issues before churn surges past 60% at 5+ calls.   
+* **Automate Billing Alerts at 10 Days**: Trigger proactive payment assistance and flexible billing reminders around Day 10 to prevent accounts from entering the 16+ day payment delay bracket, where churn spikes to 71.29%.   
+* **Incentivize Monthly Contract Conversions**: Launch targeted promotions (such as a free month or upgrade perks) to convert Monthly subscribers (51.61% churn) into Quarterly or Annual plans with lower attrition rates.   
+* **Launch a Long-Tenure Loyalty Program**: Create a VIP tier and legacy rewards for accounts crossing 2–3 years of tenure to combat product fatigue and decrease the high 56.03% churn rate among long-term customers.
+
+## **Author - Jhernwin E. Flora**
+This project is part of my portfolio, showcasing my skills essential for data analyst roles. 
