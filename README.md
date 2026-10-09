@@ -16,6 +16,18 @@ Primary Dataset: [customer_churn_dataset.csv](./customer_churn_dataset.csv)
 
 ### **Key Performance Indicators (KPIs)**
 
-| Metric | Value | Business Impact|
-|--------|-------|----------------|
-| Total Customers | 64,374 | Total evaluated customer base |
+| Metric | Value |
+|--------|-------|
+| Total Customers | 64,374 | 
+| Gross Potential Revenue | $34,827,839.00 | 
+| Total Churned Customers | 30,493 |
+| Overall Churn Rate | 47.37% |
+| Average Customer Spend | $541.02 |
+| Revenue Lost to Churn | $15,836,117.00 |
+| Revenue Retained | $18,991,722.00 |
+
+
+
+
+
+
